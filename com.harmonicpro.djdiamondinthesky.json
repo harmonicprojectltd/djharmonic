@@ -1,0 +1,14 @@
+{
+	"banner": "ca-app-pub-5781005075030098/2862400977",
+	"banner_show": "true",
+	"interstitial": "ca-app-pub-5781005075030098/4382246642",
+	"interstitial_show": "true",
+	"interstitial_count": "3",
+	"native": "",
+	"native_show": "false",
+	"interval_native": "200",
+	"open_app": "ca-app-pub-5781005075030098/1756083306",
+	"open_app_show": "true",
+	"package_name": "com.harmonicpro.djdiamondinthesky",
+	"status": "0"
+}
