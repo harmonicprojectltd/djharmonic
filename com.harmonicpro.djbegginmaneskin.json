@@ -1,0 +1,14 @@
+{
+	"banner": "ca-app-pub-5781005075030098/6607039014",
+	"banner_show": "true",
+	"interstitial": "ca-app-pub-5781005075030098/7728548993",
+	"interstitial_show": "true",
+	"interstitial_count": "3",
+	"native": "",
+	"native_show": "false",
+	"interval_native": "200",
+	"open_app": "ca-app-pub-5781005075030098/7536977301",
+	"open_app_show": "true",
+	"package_name": "com.harmonicpro.djbegginmaneskin",
+	"status": "0"
+}
