@@ -1,13 +1,13 @@
 {
-	"banner": "ca-app-pub-5781005075030098/6679292830",
+	"banner": "ca-app-pub-5781005075030098/1174530739",
 	"banner_show": "true",
-	"interstitial": "ca-app-pub-5781005075030098/2783445707",
+	"interstitial": "ca-app-pub-5781005075030098/6082214816",
 	"interstitial_show": "true",
 	"interstitial_count": "3",
 	"native": "",
 	"native_show": "false",
 	"interval_native": "200",
-	"open_app": "ca-app-pub-5781005075030098/1512201419",
+	"open_app": "ca-app-pub-5781005075030098/6378755958",
 	"open_app_show": "true",
 	"package_name": "com.harmonicpro.djtakemetochurch",
 	"status": "0"
