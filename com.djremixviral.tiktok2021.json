@@ -1,13 +1,13 @@
 {
-	"banner": "ca-app-pub-5781005075030098/1583116508",
+	"banner": "ca-app-pub-5781005075030098/1380552473",
 	"banner_show": "true",
-	"interstitial": "ca-app-pub-5781005075030098/6643871491",
+	"interstitial": "ca-app-pub-5781005075030098/9067470807",
 	"interstitial_show": "true",
 	"interstitial_count": "3",
-	"native": "ca-app-pub-5781005075030098/4287164914",
+	"native": "",
 	"native_show": "false",
 	"interval_native": "200",
-	"open_app": "ca-app-pub-5781005075030098/5139218136",
+	"open_app": "ca-app-pub-5781005075030098/4836581754",
 	"open_app_show": "true",
 	"package_name": "com.djremixviral.tiktok2021",
 	"status": "0"
