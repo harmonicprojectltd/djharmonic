@@ -1,13 +1,13 @@
 {
-	"banner": "ca-app-pub-5781005075030098/5723248475",
+	"banner": "ca-app-pub-5781005075030098/4223721124",
 	"banner_show": "true",
-	"interstitial": "ca-app-pub-5781005075030098/8157840128",
+	"interstitial": "ca-app-pub-5781005075030098/4626690585",
 	"interstitial_show": "true",
 	"interstitial_count": "3",
 	"native": "",
 	"native_show": "false",
 	"interval_native": "200",
-	"open_app": "ca-app-pub-5781005075030098/2905513446",
+	"open_app": "ca-app-pub-5781005075030098/2000527248",
 	"open_app_show": "true",
 	"package_name": "com.harmonicpro.djdamonvocation.json",
 	"status": "0"
